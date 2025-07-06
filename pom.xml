@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>springconcepts</artifactId>
+	<artifactId>sboot-doc-transfer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springconcepts</name>
+	<name>sboot-doc-transfer</name>
 	<description>Project create for understanding spring concepts</description>
 	<url/>
 	<licenses>
